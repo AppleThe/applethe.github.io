@@ -1,4 +1,24 @@
-body {
-  background-color: #dde;
+html {
+	font-family: 'Trebuchet MS';
+	color: #c3c5e3;
+	background-color: #252850;
+}
+
+/* a:-webkit-clicked-link { */
+	/* /* color: -webkit-link; */
+	/* color: #fff; */
+/* } */
+
+:link, :visited {
+	color: #9494eb;
+}
+
+:link:hover, :visited:hover {
+	color: #c3c5e3;
+}
+
+hr {
+	border-color: #464c99;
+	border-top: 1px solid #353973;
 }
 
