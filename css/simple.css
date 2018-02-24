@@ -1,3 +1,16 @@
 body {
   background-color: #202024;
 }
+
+h1 {
+  color: #fff;
+  font-family: 'Trebuchet MS';
+}
+
+hr {
+  background: #aaa;
+}
+
+href {
+  color: #ccc;
+}
