@@ -1,13 +1,20 @@
 html {
 	font-family: 'Trebuchet MS';
+	font-size: 16px;
+	/* font-size: 16px; */
 	color: #c3c5e3;
 	background-color: #252850;
 }
 
-/* a:-webkit-clicked-link { */
-	/* /* color: -webkit-link; */
-	/* color: #fff; */
-/* } */
+.logo {
+	
+	font-family: 'Francois One', sans-serif;
+}
+
+.copyright {
+	font-family: 'Arial';
+	font-size: 12px;
+}
 
 :link, :visited {
 	color: #9494eb;
