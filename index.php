@@ -41,6 +41,11 @@
 		</header>
 		
 		<main align="center">
+			
+			<?php
+				echo "hello world";
+			?>
+			
 			<p>
 				<a href="https://t.me/applethe" target="_blank">t.me/applethe</a><br />
 				<a href="https://vk.me/applethe" target="_blank">vk.me/applethe</a>
