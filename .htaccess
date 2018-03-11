@@ -1,0 +1,3 @@
+<IfModule mod_dir.c>
+DirectoryIndex index.php index.html index.shtml index.wml index.pwml index.php3 index.php4
+</IfModule>
